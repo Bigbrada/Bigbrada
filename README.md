@@ -1,11 +1,3 @@
-## Hi there 👋
-<!--
-**Bigbrada619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ⚡ Graphic Designer taking on the of Web Development and Animation
--->(https://github.com/user-attachments/files/28114401/home.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
